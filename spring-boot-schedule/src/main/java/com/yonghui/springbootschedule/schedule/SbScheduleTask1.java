@@ -6,6 +6,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
+/**
+ * 定时任务，参考地址：https://blog.csdn.net/qq_35808136/article/details/89704539
+ */
 @Component
 @Slf4j
 public class SbScheduleTask1 {
